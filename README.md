@@ -5,8 +5,8 @@
   <h1>About Me</h1>  
   <p>Studying computer engineering at <a href="http://www.cucei.udg.mx/" target="_blank">CUCEI</a> and <a href="https://udg.mx/" target="_blank">UDG</a></p>
   <p>A university student from Mexico, I like web programming and writing articles, but I also have knowledge in other programming languages</p>
-  <p>🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics </p>
-  <p>☁️ Networking, 🌟 Astronomy, 💻 Programmer </p>
+  <p>🧮Mathematics</p>
+  <p>💻 Programmer </p>
  </div>
  
  <div id="badges" align="Center">
