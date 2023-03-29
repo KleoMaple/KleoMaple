@@ -38,7 +38,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KL.KL&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KleoMaple.KleoMaple&"  />
 </div>
 
 ###
@@ -89,6 +89,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KL/KL/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/KleoMaple/KleoMaple/blob/output/snake.svg" alt="Snake animation" />
 
 ###
